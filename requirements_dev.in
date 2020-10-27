@@ -22,7 +22,7 @@ python-dateutil>=2.1,<2.7.0
 # Paramiko version 2.4.2 is buggy. See
 # https://github.com/paramiko/paramiko/issues/1386
 # https://github.com/paramiko/paramiko/issues/1369
-cryptography ~= 2.4.2
+cryptography ~= 3.2
 
 # PyUP
 Click~=6.7
